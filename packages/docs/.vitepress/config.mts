@@ -2,7 +2,7 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Zoe-Elemnet",
+  title: "Zoe-Element",
   description: "高仿Element-Plus的组件库",
   base: "/zoe-element/",
   themeConfig: {
